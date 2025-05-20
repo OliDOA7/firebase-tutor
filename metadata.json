@@ -1,0 +1,6 @@
+{
+  "name": "Firebase Setup & Prompt Assistant",
+  "description": "A friendly AI guide to help users prepare their Firebase/GCP environment and generate a tailored Firebase Studio prompt for app development.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
